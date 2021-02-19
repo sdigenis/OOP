@@ -1,0 +1,7 @@
+1,Bungee jumping from mount Doom,70,6,Bungee jumping,1000
+2,Diving in the Mediterrean,90,6,Diving,120,200
+3,Diving in the Ocean,120,12,Diving,180,500
+4,Bungee jumping from mount Olympus watching the see,100,10,Bungee jumping,2000
+5,Drifting in the safari,300,10,Drifting,30,BMW,231
+6,Drifting in the formula1 field,500,10,Drifting,20,ferrari,300
+7,Sky-diving from an airoplane,400,8,Skydiving,4000,240
